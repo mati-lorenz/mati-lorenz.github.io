@@ -35,9 +35,6 @@ My research integrates information theory, electrophysiology, and spiking networ
 *2024 – Present*  
 **University Medical Center Hamburg-Eppendorf (UKE), Germany**  
 Institute of Neural Information Processing (Prof. Dr. Stefano Panzeri)  
-- Leading projects on multivariate information coding in neural data  
-- Collaborating on rodent electrophysiology data  
-- Developing new information-theoretic methods
 
 ---
 
@@ -55,7 +52,7 @@ Balseiro Institute, Argentina
 **Thesis:** *Functional interaction between neurons: application to the retina*  
 **Advisor:** Dr. Damián G. Hernández
 
-**Bachelor in Physics**  
+**Bachelor (Licenciatura) in Physics**  
 *2014 – 2018*  
 Balseiro Institute & National University of Tucumán, Argentina
 

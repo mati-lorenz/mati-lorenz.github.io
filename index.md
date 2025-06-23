@@ -14,7 +14,7 @@ title: "Gabriel Matías Lorenz"
 
 ## About Me
 
-I am a computational neuroscientist with a background in physics, data science, and neural modeling. Currently a postdoctoral researcher at the University Medical Center Hamburg-Eppendorf, I lead theoretical and computational research on multivariate neural information coding. I am the lead developer of the Multivariate Information in Neuroscience Toolbox (MINT), which facilitates high-dimensional analysis of neural data.
+I am a computational neuroscientist with a background in physics, data science, and neural modeling. Currently a postdoctoral researcher at the University Medical Center Hamburg-Eppendorf, I do theoretical and computational research on multivariate neural information coding. I am the lead developer of the Multivariate Information in Neuroscience Toolbox (MINT), which facilitates high-dimensional analysis of neural data.
 
 My research integrates information theory, electrophysiology, and spiking network models to decode the principles of neural computation.
 
@@ -119,4 +119,4 @@ Piano 🎹 • Chess ♟️ • Go • Rock Climbing • Photography 📷 • Mu
 ## Contact
 
 📧 [gama.lorenz@gmail.com](mailto:gama.lorenz@gmail.com)  
-🔗 [gamalorenz.github.io](https://gamalorenz.github.io) (your GitHub Pages site once published)
+🔗 [gamalorenz.github.io](https://gamalorenz.github.io)

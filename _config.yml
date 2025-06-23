@@ -4,7 +4,7 @@ author: "Gabriel Matías Lorenz"
 email: gama.lorenz@gmail.com
 theme: jekyll-theme-minimal
 markdown: kramdown
-include: ["assets/css"]
+#include: ["assets/css"]
 
 #title: "Gabriel Matías Lorenz"
 #description: "Postdoctoral Computational Neuroscientist"

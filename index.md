@@ -21,8 +21,8 @@ My research integrates information theory, electrophysiology, and spiking networ
 
 ## Research Interests
 
-- Neural Information Theory  
-- Computational Neuroscience  
+- Computational Neuroscience
+- Information Theory  
 - High-dimensional Data Analysis  
 - Spiking Neural Networks  
 - Machine Learning for Neuroscience

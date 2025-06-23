@@ -1,10 +1,43 @@
 ---
 layout: default
-title: CV
-nav_order: 5
+title: "Gabriel Matías Lorenz"
 ---
 
-You can download my CV [here (PDF)](/cv.pdf).
+# Gabriel Matías Lorenz
+
+**Postdoctoral Computational Neuroscientist**  
+[GitHub](https://github.com/gamalorenz) • [ORCID](https://orcid.org/0009-0006-3129-906X) • [Email](mailto:gama.lorenz@gmail.com)
+
+📍 Hamburg, Germany
+
+---
+
+## About Me
+
+I am a computational neuroscientist with a background in physics, data science, and neural modeling. Currently a postdoctoral researcher at the University Medical Center Hamburg-Eppendorf, I do theoretical and computational research on multivariate neural information coding. I am the lead developer of the Multivariate Information in Neuroscience Toolbox (MINT), which facilitates high-dimensional analysis of neural data.
+
+My research integrates information theory, electrophysiology, and spiking network models to decode the principles of neural computation.
+
+---
+
+## Research Interests
+
+- Computational Neuroscience
+- Information Theory  
+- High-dimensional Data Analysis  
+- Spiking Neural Networks  
+- Machine Learning for Neuroscience
+
+---
+
+## Current Position
+
+**Postdoctoral Researcher**  
+*2024 – Present*  
+**University Medical Center Hamburg-Eppendorf (UKE), Germany**  
+Institute of Neural Information Processing (Prof. Dr. Stefano Panzeri)  
+
+---
 
 ## Education
 
@@ -81,3 +114,9 @@ Koçillari, **Lorenz**, et al.
 
 Piano 🎹 • Chess ♟️ • Go • Rock Climbing • Photography 📷 • Museums 🏛️ • Language Learning 🗣️
 
+---
+
+## Contact
+
+📧 [gama.lorenz@gmail.com](mailto:gama.lorenz@gmail.com)  
+🔗 [gamalorenz.github.io](https://gamalorenz.github.io)

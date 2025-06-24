@@ -1,6 +1,5 @@
 ---
 layout: home
-title: "Gabriel Matías Lorenz"
 ---
 
 Postdoctoral researcher at University Medical Center Hamburg-Eppendorf (UKE), member of the Institute of Neural Information Processing.  

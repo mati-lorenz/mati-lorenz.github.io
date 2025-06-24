@@ -1,12 +1,7 @@
 ---
-layout: default
+layout: page
 title: CV
 nav_order: 5
----
----
-layout: page
-title: "CV"
-permalink: /cv/
 ---
 
 Download full CV [here](assets/cv.pdf).

@@ -1,6 +1,5 @@
 title: "Gabriel Matías Lorenz"
-#markdown: kramdown
-title: "Gabriel Matías Lorenz"
+markdown: kramdown
 description: "Computational Neuroscience, Information Theory, Neural Data Analysis"
 remote_theme: mmistakes/jekyll-theme-basically-basic
 url: "https://mati-lorenz.github.io"

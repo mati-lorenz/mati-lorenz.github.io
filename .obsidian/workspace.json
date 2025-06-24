@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "29126d8315574e59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cv.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cv"
+            }
+          },
+          {
             "id": "e8954162e4298816",
             "type": "leaf",
             "state": {
@@ -77,7 +91,8 @@
               "title": "publications"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md",
+                "file": "cv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for about"
+              "title": "Backlinks for cv"
             }
           },
           {
@@ -169,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about.md",
+                "file": "cv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from about"
+              "title": "Outgoing links from cv"
             }
           },
           {
@@ -198,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about.md",
+                "file": "cv.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of about"
+              "title": "Outline of cv"
             }
           }
         ]
@@ -225,8 +240,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "c9196493ce396d03",
+  "active": "2cd884b4009ecf77",
   "lastOpenFiles": [
+    "Research.md",
+    "about.md",
+    "assets",
     "_config~.yml",
     "index.md.backup",
     "index.md",
@@ -236,9 +254,8 @@
     "projects.md",
     "publications.md",
     "contact.md",
-    "about.md",
     "README.md",
-    "cv.pdf",
+    "assets/cv.pdf",
     "assets/css/style.css",
     "assets/css",
     "_layouts/default.html",

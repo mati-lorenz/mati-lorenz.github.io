@@ -1,13 +1,7 @@
 ---
-layout: default
-title: Home
-nav_order: 1
+layout: home
+title: "Gabriel Matías Lorenz"
 ---
 
-# Gabriel Matías Lorenz
-
-Computational neuroscientist focused on neural information theory and network models. I build theoretical frameworks and open-source tools to decode the principles of brain computation.
-
-📍 Hamburg, Germany  
-📧 [gama.lorenz@gmail.com](mailto:gama.lorenz@gmail.com)  
-🔗 [GitHub](https://github.com/gamalorenz) • [ORCID](https://orcid.org/0009-0006-3129-906X)
+Postdoctoral researcher at University Medical Center Hamburg-Eppendorf (UKE), member of the Institute of Neural Information Processing.  
+Research interests include computational neuroscience, information theory, and spiking neural networks.

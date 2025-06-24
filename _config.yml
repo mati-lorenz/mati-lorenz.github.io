@@ -2,7 +2,15 @@ title: "Gabriel Matías Lorenz"
 description: "Postdoctoral Computational Neuroscientist"
 author: "Gabriel Matías Lorenz"
 email: gama.lorenz@gmail.com
-theme: jekyll-theme-minimal
-show_downloads: false
+theme: jekyll-theme-basically-basic
+markdown: kramdown
+#include: ["assets/css"]
+
+#title: "Gabriel Matías Lorenz"
+#description: "Postdoctoral Computational Neuroscientist"
+#author: "Gabriel Matías Lorenz"
+#email: gama.lorenz@gmail.com
+#theme: jekyll-theme-basically-basic
+#show_downloads: false
 #logo: /profile.jpg  # optional, upload your photo
-google_analytics: false
+#google_analytics: false

@@ -214,10 +214,16 @@
   },
   "active": "29126d8315574e59",
   "lastOpenFiles": [
+    "assets/icons/icon.png",
+    "assets/icons/brain.svg",
+    "assets/icons/maskable_icon.png",
+    "assets/icons/brain-illustration-1-svgrepo-com.svg",
+    "assets/icons",
+    "assets/icosn",
+    "assets/untitled folder",
     "index.md",
     "assets/images/icon-github.svg",
     "assets/images",
-    "assets/untitled folder",
     "assets/icon-github.svg",
     "Research.md",
     "research.md",
@@ -234,8 +240,6 @@
     "contact.md",
     "README.md",
     "assets/cv.pdf",
-    "assets/css/style.css",
-    "assets/css",
-    "_layouts/default.html"
+    "assets/css/style.css"
   ]
 }

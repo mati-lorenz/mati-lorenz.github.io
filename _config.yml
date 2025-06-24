@@ -1,7 +1,7 @@
 title: "Gabriel Matías Lorenz"
 markdown: kramdown
 description: "Computational Neuroscience, Information Theory, Neural Data Analysis"
-remote_theme: mmistakes/jekyll-theme-basically-basic
+remote_theme: hydecorp/hydejack@v9.1.6 #mmistakes/jekyll-theme-basically-basic
 url: "https://mati-lorenz.github.io"
 baseurl: ""
 author:
@@ -10,13 +10,14 @@ author:
   github: gamalorenz
   orcid: 0009-0006-3129-906X
   location: Hamburg, Germany
+logo: 'assets/icons/icon.png'
 # Navigation links
-nav:
-  - title: "About"
-    url: /about/
-  - title: "CV"
-    url: /cv/
-  - title: "Research"
-    url: /research/
-  - title: "Contact"
-    url: /contact/
+#nav:
+#  - title: "About"
+#    url: /about/
+#  - title: "CV"
+#    url: /cv/
+#  - title: "Research"
+#    url: /research/
+#  - title: "Contact"
+#    url: /contact/

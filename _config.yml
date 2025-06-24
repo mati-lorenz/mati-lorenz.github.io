@@ -1,7 +1,7 @@
 title: "Gabriel Matías Lorenz"
 markdown: kramdown
 description: "Computational Neuroscience, Information Theory, Neural Data Analysis"
-remote_theme: hydecorp/hydejack@v9.1.6 #mmistakes/jekyll-theme-basically-basic
+remote_theme: mmistakes/jekyll-theme-basically-basic #hydecorp/hydejack@v9.1.6 #
 url: "https://mati-lorenz.github.io"
 baseurl: ""
 author:
